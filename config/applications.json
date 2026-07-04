@@ -53,6 +53,15 @@
         "winget": "angryziber.AngryIPScanner",
         "foss": true
     },
+    "antigravity": {
+        "category": "Development",
+        "choco": "antigravity",
+        "content": "Antigravity",
+        "description": "Google's agentic AI coding assistant. Includes the CLI and desktop sidecar for autonomous development alongside your existing editor.",
+        "link": "https://antigravity.google/",
+        "winget": "Google.Antigravity",
+        "foss": false
+    },
     "anydesk": {
         "category": "Utilities",
         "choco": "anydesk",
